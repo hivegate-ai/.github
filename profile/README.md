@@ -11,8 +11,5 @@ Gmail, Calendar and Drive, and deploy with one click. MIT licensed.
 | [hivegate](https://github.com/hivegate-ai/hivegate) | The FastAPI service |
 | [deploy](https://github.com/hivegate-ai/deploy) | One-click Render / Railway / Koyeb configs and Kubernetes manifests |
 | [docs](https://github.com/hivegate-ai/docs) | API and platform documentation |
-| [site](https://github.com/hivegate-ai/site) | Source of hivegate.dev |
 
 Image: `ghcr.io/hivegate-ai/hivegate` · Contact: hello@hivegate.dev · Security: security@hivegate.dev
-
-*Formerly Agents Gateway.*
